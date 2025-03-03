@@ -28,5 +28,11 @@ numero_2 = int("30")
 suma = numero_1 + numero_2
 print(f"El resultado de la suma es: {suma} ")
 
+numero_1 = float(input("Introduzca el primer número: ")) # Esto es un string
+numero_2 = float(input("Introduzca el segundo número: ")) # Esto también es un string
+
+suma = numero_1 + numero_2
+print(f'El resultado de la suma es: {suma}.')
+
 
 
