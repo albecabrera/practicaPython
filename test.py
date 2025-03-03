@@ -11,3 +11,4 @@ print(tupla.index("rojo"))
 
 
 
+
