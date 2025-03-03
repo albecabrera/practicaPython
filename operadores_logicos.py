@@ -33,3 +33,5 @@ print(comparacion_1)
 print(comparacion_2)
 
 
+# verdadero o falso
+

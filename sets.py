@@ -40,3 +40,9 @@ lista_numeros = [10,20,30,40]
 lista2 = [10, lista_numeros]
 
 print(lista2)
+
+# not  
+print(True)
+print(not True)
+print(not False)
+
