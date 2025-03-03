@@ -14,4 +14,4 @@ elif edad >= 75 and edad < 110:
 else:
     print('!No crfeo que tengas esa edad!')
 
-    
+# type 
